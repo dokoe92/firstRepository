@@ -3,3 +3,6 @@ https://www.youtube.com/watch?v=dQw4w9WgXcQ
 "Hello World"
 Ali G. in tha house
 
+Steps of Git:
+https://techindustan.tumblr.com/post/179816754239/in-case-of-fire-git-commit-git-push-leave
+
